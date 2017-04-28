@@ -12,8 +12,11 @@
 
 ---
 
+![플랜](https://github.com/dev-study/home/blob/master/images/2017/2017-round.jpg)
 
-[참여신청](https://goo.gl/forms/JLd2a19ftRM8j1ru2)
+![공지](https://github.com/dev-study/home/blob/master/images/2017/2017-notice.jpg)
+
+#### [참여신청](https://goo.gl/forms/JLd2a19ftRM8j1ru2)
 
 ![데브스터디](https://github.com/dev-study/home/blob/master/images/study-scene.png)
 
